@@ -1,0 +1,11 @@
+.env
+cache/
+episode-*.txt
+*.zip
+parsed.json
+stage1_*
+stage2_*
+promos_*
+failures_auto.md
+my_picks.json
+__pycache__/
